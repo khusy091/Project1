@@ -8,7 +8,7 @@
     body{
     height: 70vh;
     background-color: #000;
-    background-image:url('https://images.pexels.com/photos/405202/pexels-photo-405202.jpeg?auto=compress&cs=tinysrgb&w=400');
+    background-image:url('https://images.wallpapersden.com/image/download/escape-hd-minimal-cool_bWZnbGqUmZqaraWkpJRmbmdlrWZlbWU.jpg');
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,17 +38,6 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.navbar .logo a {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 1.5rem;
-    font-weight: bold;
-}
-
-.navbar .links {
-    font-family: 'Roboto', sans-serif; /* Example font-family added */
-    display: flex;
-    gap: 2rem;
 }
 
 .navbar .toggle_btn{
