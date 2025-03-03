@@ -18,10 +18,22 @@ li{
 }
 a{
     text-decoration:none;
-    color:#000;
+    color:#fff;
     font-size: 1rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.navbar .logo a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar .links {
+    font-family: 'Roboto', sans-serif; /* Example font-family added */
+    display: flex;
+    gap: 2rem;
+}
+
 a:hover{
     color:goldenrod;
 }
